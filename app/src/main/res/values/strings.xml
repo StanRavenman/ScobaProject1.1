@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScobaProject1.1</string>
+    <string name="hint">"INPUT TEXT HERE:\n*  use ONLY lower case letters a-z, spaces and five symbols . , ? ! -
+        \n\nINPUT SCOBI HERE:\n*  use ONLY [ or ] without spaces. Scob's number should be /5"</string>
+</resources>
